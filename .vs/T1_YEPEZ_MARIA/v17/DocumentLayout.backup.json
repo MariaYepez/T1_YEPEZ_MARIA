@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0AF53F-2455-4B2B-A324-32352D2FC754}|T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA.csproj|c:\\users\\maria\\desktop\\t1_yepez_maria\\t1_yepez_maria\\views\\distribuidor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0AF53F-2455-4B2B-A324-32352D2FC754}|T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA.csproj|solutionrelative:t1_yepez_maria\\views\\distribuidor\\eliminar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0AF53F-2455-4B2B-A324-32352D2FC754}|T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA.csproj|c:\\users\\maria\\desktop\\t1_yepez_maria\\t1_yepez_maria\\views\\distribuidor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EE0AF53F-2455-4B2B-A324-32352D2FC754}|T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA.csproj|solutionrelative:t1_yepez_maria\\views\\distribuidor\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0AF53F-2455-4B2B-A324-32352D2FC754}|T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA.csproj|c:\\users\\maria\\desktop\\t1_yepez_maria\\t1_yepez_maria\\controllers\\distribuidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0AF53F-2455-4B2B-A324-32352D2FC754}|T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA.csproj|solutionrelative:t1_yepez_maria\\controllers\\distribuidorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\Views\\Distribuidor\\Editar.cshtml",
+              "RelativeDocumentMoniker": "T1_YEPEZ_MARIA\\Views\\Distribuidor\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\Views\\Distribuidor\\Editar.cshtml",
+              "RelativeToolTip": "T1_YEPEZ_MARIA\\Views\\Distribuidor\\Editar.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T21:57:19.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Eliminar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\Views\\Distribuidor\\Eliminar.cshtml",
+              "RelativeDocumentMoniker": "T1_YEPEZ_MARIA\\Views\\Distribuidor\\Eliminar.cshtml",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\Views\\Distribuidor\\Eliminar.cshtml",
+              "RelativeToolTip": "T1_YEPEZ_MARIA\\Views\\Distribuidor\\Eliminar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T21:56:44.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DistribuidorController.cs",
+              "DocumentMoniker": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\Controllers\\DistribuidorController.cs",
+              "RelativeDocumentMoniker": "T1_YEPEZ_MARIA\\Controllers\\DistribuidorController.cs",
+              "ToolTip": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\Controllers\\DistribuidorController.cs",
+              "RelativeToolTip": "T1_YEPEZ_MARIA\\Controllers\\DistribuidorController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAEQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:32:29.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
