@@ -13,6 +13,30 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\wwwroot\\images\\Marcas_Quimica_Suiza.png",
+      "PackagePath": "staticwebassets\\images\\Marcas_Quimica_Suiza.png"
+    },
+    {
+      "Id": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\wwwroot\\images\\Vega-Supermayorista.png",
+      "PackagePath": "staticwebassets\\images\\Vega-Supermayorista.png"
+    },
+    {
+      "Id": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\wwwroot\\images\\Yichang.png",
+      "PackagePath": "staticwebassets\\images\\Yichang.png"
+    },
+    {
+      "Id": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\wwwroot\\images\\golomania.jpg",
+      "PackagePath": "staticwebassets\\images\\golomania.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\wwwroot\\images\\logo_quimica_suiza.jpg",
+      "PackagePath": "staticwebassets\\images\\logo_quimica_suiza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\wwwroot\\images\\nuestras-marcas-vega.webp",
+      "PackagePath": "staticwebassets\\images\\nuestras-marcas-vega.webp"
+    },
+    {
       "Id": "C:\\Users\\Maria\\Desktop\\T1_YEPEZ_MARIA\\T1_YEPEZ_MARIA\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
